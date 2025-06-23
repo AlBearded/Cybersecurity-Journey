@@ -10,6 +10,7 @@ This repo tracks my progress as I learn the fundamentals of cybersecurity.
 - Vulnerability Scanning (Nmap, Nessus)
 - Malware Analysis
 - Fortinet Tools (need to continu work on this)
+- Penetration testing
 
 ## 🛠 Tools Used
 - Wireshark
